@@ -85,3 +85,6 @@ Aplica a todas las actividades relacionadas con el desarrollo del proyecto del c
 > Ya en la primera clase del curso hablamos de integridad académica (incluyendo cómo citar y cómo referenciar el uso de IA). ¿Cómo piensan mantener la integridad académica? Conversen sobre cómo piensan citar y referenciar el uso de código de fuentes externas, sobre cómo piensan utilizar IA durante el semestre y... respondan en su checklist lo más difícil: ¿qué harían si identifican código externo o de una IA que no ha sido referenciado por otro miembro de su equipo?
 
 1. Si **YO** encuentro código que aparentemente fue desarrollado por una IA pero no se referenció...
+
+## 4. Firma de cada integrante del grupo
+En esta sección deberán colocar el nombre y la firma de cada uno de los integrantes del equipo. 
