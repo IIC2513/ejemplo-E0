@@ -41,4 +41,8 @@
 
 <!-- ejemplo de aplicacion -->
 ### :iphone: Ejemplo de aplicación
+> [!NOTE]
+> Los ejemplos de aplicación deben ser componentes o secciones específicas de su aplicación que reflejen sus decisiones de paleta de colores, tipografía, etc, que se encuentran en su documento de diseño.
+
+
 ![Ejemplo de aplicación](assets/PatternApplication.png)
